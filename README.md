@@ -1,1 +1,1 @@
-# cptr302-git-lab
+"Team X: A collaborative Git project
