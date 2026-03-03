@@ -1,5 +1,8 @@
- HEAD
 "Team X: A collaborative Git project
 
 Team 6 is struggling at learning git together
- update-readme-b
+
+Contributrs:
+    charls
+    owen
+    ryan
