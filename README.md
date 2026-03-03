@@ -1,1 +1,1 @@
-# cptr302-git-lab
+Team 6 is struggling at learning git together
